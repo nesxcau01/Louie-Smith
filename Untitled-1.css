@@ -1,0 +1,233 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+    
+    .titulo{
+    color: #000000;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    }
+    
+    .perfil {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+    }
+    
+    body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-family: "Montserrat", Arial, sans-serif;
+    }
+    
+    header {
+    width: 22%;
+    text-align: center;
+    padding-top: 3em;
+    background: rgba(0, 0, 0, 0.04);
+    padding-left: 3em;
+    padding-right: 3em;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    }
+    
+    section {
+    width: 78%;
+    display: flex;
+    
+    }
+    
+    ul {
+    font-family: "Montserrat", sans-serif;
+    margin-top: 4vh;
+    }
+    
+    li {
+    font-weight: 700;
+    list-style: none;
+    margin-top: 1vh;
+    }
+    
+    a {
+    color: #000000B3;
+    text-decoration: none;
+    }
+    
+    .news {
+    font-size: 18px;
+    font-weight: 700;
+    color: #000000CC;
+    font-family: "Poppins", Arial, sans-serif;
+    }
+    
+    .fotinha {
+    height: 100vh;
+    width: 116%;
+    object-fit: cover;
+    }
+    
+    h2{
+    margin-top: 30vh;
+    }
+    
+    input {
+    margin-top: 2vh;
+    }
+    
+    .emailadress {
+    padding-right: 40px;
+    background: #fff;
+    border: 1px solid #ece4d5;
+    color: rgba(0, 0, 0, 0.4);
+    height: 52px;
+    font-size: 14px;
+    text-align: center;
+    position: relative;
+    }
+    
+    svg{
+    bottom: 50px;
+    width: 17px;
+    left: 280px;
+    position: absolute;
+    }
+    
+    .Newsletter {
+    top: 40px;
+    }
+    
+    #selecionado a{ 
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-offset: 7px;
+    color: #000000;
+    }
+    
+    .subhead {
+    font-size: 24px;
+    color: #bfbfbfcb;
+    font-weight: 400;
+    font-family: "Montserrat", arial, sans-serif;
+    
+    }
+    
+    .bigletter{
+    bottom: 14px;
+    right: 40px;
+    color: #ededed;
+    z-index: -1;
+    font-size: 70px;
+    line-height: 1;
+    font-family: "Poppins", arial, sans-serif;
+    font-weight: 900;
+    }
+    
+    .desc {
+    padding-left: 140px;
+    padding-top: 220px;
+    }
+    
+    .mb4{
+    color: #bfbfbf;;
+    font-family: "Montserrat", arial, sans-serif;
+    font-weight: 600;
+    }
+    
+    h1 , .mb4 {
+    font-size: 40px;
+    font-weight: 800;
+    
+    }
+    
+    .desc>p {
+    font-size: 18px ;
+    font-weight: 400;
+    color: #999999;
+    }
+    
+    .desc>h3 {
+    font-size: 40px ;
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: 400;
+    font-family: "Herr Von Muellerhoff";
+    margin-top: 2vh;
+    }
+    
+    .mb4 {
+    color: #000000;
+    }
+    
+    h1 , .mb4 span {
+    color: #ccb78f;
+    }
+    
+    .desc>h1 {
+    margin-top: -4vh;
+    position: relative;
+    }
+    
+    .redesocial {
+    height: 3vh;
+    
+    }
+    
+    .redevizinha>li{
+    display: inline-block;
+    width: 67px;
+    }
+    .nada{
+        font-family: "Herr Von Muellerhoff", cursive;
+        font-size: 40px;
+        margin-left: -480px;
+        margin-top: 640px;
+    }
+  
+    .insta{
+      margin-top: 1080px;
+      margin-left: -460px;
+      text-transform: uppercase;
+      letter-spacing: 5px;
+  
+    }
+    .imagens{
+      display: flex;
+      height: 193.8px;
+      margin-top: 10px;
+      margin-left: 620px;
+      object-fit: cover;
+    }
+    .img1{
+      height: 193px;
+      width: 200px;
+      object-fit: cover;
+    }
+    .img2{
+      height: 193px;
+      width: 200px;
+      object-fit: cover;
+    }
+    .img3{
+      height: 193px;
+      width: 200px;
+      object-fit: cover;
+    }
+    .img4{
+      height: 193px;
+      width: 200px;
+      object-fit: cover;
+    }
+    .img5{
+      height: 193px;
+      width: 200px;
+      object-fit: cover;
+    }
+  
+  
+  
